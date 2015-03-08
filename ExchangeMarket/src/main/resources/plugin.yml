@@ -1,0 +1,11 @@
+name: ExchangeMarket
+main: com.samoatesgames.exchangemarket.ExchangeMarket
+version: 1.0
+authors: [SamOatesPlugins]
+description: An item market exchange plugin for Minecraft.
+
+commands:
+    market:
+        description: Access to all the market commands
+        usage: /<command> [subcommand] [paramas...]
+        aliases: [exchangemarket, exchange]
