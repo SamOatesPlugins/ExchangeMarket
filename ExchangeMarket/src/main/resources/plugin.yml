@@ -5,7 +5,7 @@ authors: [SamOatesPlugins]
 description: An item market exchange plugin for Minecraft.
 
 commands:
-    market:
+    exchange:
         description: Access to all the market commands
-        usage: /<command> [subcommand] [paramas...]
-        aliases: [exchangemarket, exchange]
+        usage: /<command>
+        aliases: [exchangemarket]
